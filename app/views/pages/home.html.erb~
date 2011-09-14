@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Da List | <%= @title %></title>
+  </head>
+  <body>
+    <h1>Da List</h1>
+    <p>
+      Thifgdfsgfdgdfg
+    </p>
+  </body>
+</html>
